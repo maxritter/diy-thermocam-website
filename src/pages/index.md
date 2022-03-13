@@ -12,7 +12,7 @@ sections:
         url: 'https://www.diy-thermocam.net/docs/partlist/'
         style: primary
       - label: Build the Device
-        url: 'https://www.diy-thermocam.net/docs/partlist/'
+        url: 'https://www.diy-thermocam.net/building-instructions'
         style: secondary
   - type: section_content
     template: section_content
