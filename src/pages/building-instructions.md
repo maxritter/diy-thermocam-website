@@ -32,7 +32,7 @@ image: ''
 
 ![](https://cdn.forestry.io/res2/B1n3GNdrd8BwBLUxPMurAfEwZ5yy-h6TSVUsEqH7LJo/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDU2xFMVVWRXdQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tYWY0/ZmNhM2ZhNDRmYWQ5/ZDRlMDEwMjhkNTIy/MjI0YWYyZGU4ZjFm/My8xLmpwZw)
 
-****[**Checkout the Partlist**](https://www.diy-thermocam.net/docs/partlist/) to **source all the required components on your own** and **make sure you have all pieces together to start building the device**:
+[**Checkout the Partlist**](https://www.diy-thermocam.net/docs/partlist/) to **source all the required components on your own** and **make sure you have all pieces together to start building the device**:
 
 *   1 x PCB V3.0
 *   6 x 2D Laser Cutted Enclosure Parts
