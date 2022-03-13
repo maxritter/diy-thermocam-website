@@ -160,7 +160,17 @@
                 "no_follow": false
             }
         ],
-        "links": [],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
         "content": "©2022 DIY-Thermocam by Max Ritter. All Rights Reserved."
     },
     "domain": "https://www.diy-thermocam.net",
