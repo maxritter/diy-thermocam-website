@@ -9,7 +9,7 @@ sections:
     content: "The\_**DIY-Thermocam V3**\_is a\_**low-cost, do-it-yourself**\_thermal imager, based on the popular radiometric\_**FLIR Lepton**\_sensor and an **open-source ecosystem**.\n"
     actions:
       - label: Source the parts
-        url: 'https://store.groupgets.com/products/diy-thermocam-v3'
+        url: 'https://www.diy-thermocam.net/docs/partlist/'
         style: primary
       - label: Source the parts on your own
         url: 'https://www.diy-thermocam.net/docs/partlist/'
