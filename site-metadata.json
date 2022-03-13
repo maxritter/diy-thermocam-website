@@ -163,7 +163,7 @@
         "links": [
             {
                 "label": "Check out my website to get in touch.",
-                "url": "#",
+                "url": "https://maxritter.net/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
