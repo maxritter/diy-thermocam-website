@@ -11,7 +11,7 @@ sections:
       - label: Source the parts
         url: 'https://www.diy-thermocam.net/docs/partlist/'
         style: primary
-      - label: Source the parts on your own
+      - label: Build the Device
         url: 'https://www.diy-thermocam.net/docs/partlist/'
         style: secondary
   - type: section_content
